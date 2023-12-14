@@ -19,7 +19,7 @@ const MiguelAngel = {
     tools: ["Git"],
     learning: ["Node.js", "Docker"],
   },
-  hobbies: ["Programming", "Drawing"],
+  hobbies: ["Programación", "Dibujo"],
   
   getFullName: function () {
     return `${this.personalInfo.name} ${this.personalInfo.lastName}`;
