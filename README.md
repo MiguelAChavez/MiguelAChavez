@@ -17,7 +17,7 @@ const MiguelAngel = {
     programmingLanguages: ["Java", "JavaScript", "HTML", "CSS", "Python"],
     frameworks: ["Spring Boot", "React"],
     tools: ["Git"],
-    learning: ["Node.js", "Docker","Go"],
+    learning: ["Node.js", "Docker", "Tailwind Css"],
     
   },
   hobbies: ["Programación", "Dibujo"],
