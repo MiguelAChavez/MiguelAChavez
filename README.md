@@ -14,7 +14,7 @@ const MiguelAngel = {
   personalInfo: {
     name: "Miguel Angel",
     lastName: "Chavez",
-    age: 21,
+    age: 22,
     country: "Argentina",
   },
   skills: {
